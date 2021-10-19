@@ -9,6 +9,8 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Part time rodeo clown
 
+![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
+
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
   <img src="https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />&nbsp;&nbsp;
