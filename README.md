@@ -1,5 +1,7 @@
 ### Hello there 👋, I'm David
 
+![Header](github_header.png)
+
 - 🔭 I’m currently a student in Platzi Master
 - 🌱 I’m currently Backend development 
 - 👯 I’m looking to collaborate on python projects
