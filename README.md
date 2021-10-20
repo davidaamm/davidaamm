@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on python projects
 - 📫 How to reach me: davidamadorm@gmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Part time rodeo clown
 
 ![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
 
@@ -22,3 +21,9 @@
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+## 🚀 &nbsp;&nbsp;Projects:
+
+I've been working in personal and platzi master projects, here are a few of them:
+
+Generador de facturas: [Demo](http://davidaam.pythonanywhere.com/)
+Bot de Discrod: [GitHub](https://github.com/davidaamm/discord_bot)
