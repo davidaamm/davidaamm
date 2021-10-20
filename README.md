@@ -25,5 +25,5 @@
 
 I've been working in personal and platzi master projects, here are a few of them:
 
-Generador de facturas: [Demo](http://davidaam.pythonanywhere.com/)
-Bot de Discrod: [GitHub](https://github.com/davidaamm/discord_bot)
+- Generador de facturas: [Demo](http://davidaam.pythonanywhere.com/)
+- Bot de Discrod: [GitHub](https://github.com/davidaamm/discord_bot)
