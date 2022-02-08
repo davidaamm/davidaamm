@@ -3,7 +3,7 @@
 ![Header](github_header.png)
 
 - 🔭 I’m currently a student in Platzi Master
-- 🌱 I’m currently Backend development 
+- 🌱 I’m currently Data Analyst 
 - 👯 I’m looking to collaborate on python projects
 - 📫 How to reach me: davidamadorm@gmail.com
 - 😄 Pronouns: he/his
